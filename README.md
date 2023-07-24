@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Artificial Intelligence and Machine Learning Enthusiast
 -------------------------------------------------------
 
-I am a fellow at Arewa Data Science Fellowship and I am interested in Artificial Intelligence and Robotics, Machine Learning and Natural Language Processing.
+I am a fellow at Arewa Data Science Fellowship, and I am interested in Artificial Intelligence and Robotics, Machine Learning and Natural Language Processing.
 
 * 🌍  I'm based in Katsina State, Nigeria
 * ✉️  You can contact me at [sufiyanibraheem3@gmail.com](mailto:sufiyanibraheem3@gmail.com)
